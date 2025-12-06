@@ -10,6 +10,20 @@
 
 ---
 
+
+## Project glimpse
+
+
+
+### Home Page
+![Home Page](./src/assets/Screenshot%202025-12-06%20202719.png)
+
+### Scholarship Details Page
+![Scholarship Details](./src/assets/2.png)
+
+
+
+
 ## 📖 Project Overview
 
 The **Scholarship Management System** is a comprehensive platform connecting students with university scholarships. Users, moderators, and admins have role-based access to manage scholarships, applications, and reviews efficiently.
