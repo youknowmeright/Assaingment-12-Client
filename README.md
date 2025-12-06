@@ -3,12 +3,12 @@
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://schoolarship-management-system-fron.vercel.app/)
 [![Server](https://img.shields.io/badge/Server-Live-blue)](https://schoolarship-management-system-serv.vercel.app/)
 
-## 🌐 Live Links
+<!-- ## 🌐 Live Links
 
 * **Live Site:** [https://schoolarship-management-system-fron.vercel.app/](https://schoolarship-management-system-fron.vercel.app/)
 * **Server:** [https://schoolarship-management-system-serv.vercel.app/](https://schoolarship-management-system-serv.vercel.app/)
 
----
+--- -->
 
 
 ## Project glimpse
